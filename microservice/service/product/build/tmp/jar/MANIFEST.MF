@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Created-By: codecentric AG
+Specification-Title: Appstash Microservice Showcase
+Specification-Version: 0.6
+Specification-Vendor: codecentric AG
+Implementation-Title: Appstash Microservice Showcase
+Implementation-Version: 0.6
+Implementation-Vendor: codecentric AG
+Git-Revision: b96e204064eebfddbcb48dbb4d6983bda3cd70d5
+Build: null
+Build-Number: null
+Class-Path: scala-library-2.10.3.jar,akka-actor_2.10-2.2.4.jar,spray-c
+ an-1.2.1.jar,spray-routing-1.2.1.jar,spray-caching-1.2.1.jar,spray-js
+ on_2.10-1.2.6.jar,scalaz-core_2.10-7.0.6.jar,config-1.2.1.jar,reactiv
+ emongo_2.10-0.10.0.jar,spray-io-1.2.1.jar,spray-http-1.2.1.jar,spray-
+ util-1.2.1.jar,spray-httpx-1.2.1.jar,shapeless_2.10-1.2.4.jar,concurr
+ entlinkedhashmap-lru-1.4.jar,parboiled-scala_2.10-1.1.6.jar,reactivem
+ ongo-bson-macros_2.10-0.10.0.jar,netty-3.5.9.Final.jar,play-iteratees
+ _2.10-2.2.0.jar,log4j-api-2.0-beta9.jar,log4j-core-2.0-beta9.jar,mime
+ pull-1.9.4.jar,parboiled-core-1.1.6.jar,scala-compiler-2.10.3.jar,rea
+ ctivemongo-bson_2.10-0.10.0.jar,scala-stm_2.10-0.7.jar,scala-reflect-
+ 2.10.4.jar
+
